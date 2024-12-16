@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in accessing HTML elements using JavaScript. The bug is a simple typo in the function name 'getElementById'.  The solution shows the correct method for accessing elements by ID. This is a great example of how seemingly small errors can cause unexpected behavior in your application.
